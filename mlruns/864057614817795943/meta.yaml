@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/ONGOLO YVAN/Desktop/chest-xray-triage/mlruns/864057614817795943
+creation_time: 1779440704781
+experiment_id: '864057614817795943'
+last_update_time: 1779440704781
+lifecycle_stage: active
+name: anomaly_detection
+trace_location: null
+workspace: default

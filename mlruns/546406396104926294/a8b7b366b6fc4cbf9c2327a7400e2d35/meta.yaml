@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ONGOLO YVAN/Desktop/chest-xray-triage/mlruns/546406396104926294/a8b7b366b6fc4cbf9c2327a7400e2d35/artifacts
+end_time: 1779440705015
+entry_point_name: ''
+experiment_id: '546406396104926294'
+lifecycle_stage: active
+run_id: a8b7b366b6fc4cbf9c2327a7400e2d35
+run_name: Multimodal_fusion
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779440704929
+status: 3
+tags: []
+user_id: ONGOLO YVAN

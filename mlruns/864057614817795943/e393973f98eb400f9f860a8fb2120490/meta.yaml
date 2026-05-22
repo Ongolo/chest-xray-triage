@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ONGOLO YVAN/Desktop/chest-xray-triage/mlruns/864057614817795943/e393973f98eb400f9f860a8fb2120490/artifacts
+end_time: 1779440704896
+entry_point_name: ''
+experiment_id: '864057614817795943'
+lifecycle_stage: active
+run_id: e393973f98eb400f9f860a8fb2120490
+run_name: Autoencoder
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779440704803
+status: 3
+tags: []
+user_id: ONGOLO YVAN

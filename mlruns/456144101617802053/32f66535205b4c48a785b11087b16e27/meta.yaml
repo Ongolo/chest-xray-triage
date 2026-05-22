@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ONGOLO YVAN/Desktop/chest-xray-triage/mlruns/456144101617802053/32f66535205b4c48a785b11087b16e27/artifacts
+end_time: 1779440704570
+entry_point_name: ''
+experiment_id: '456144101617802053'
+lifecycle_stage: active
+run_id: 32f66535205b4c48a785b11087b16e27
+run_name: CNN_Scratch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779440704398
+status: 3
+tags: []
+user_id: ONGOLO YVAN

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ONGOLO YVAN/Desktop/chest-xray-triage/mlruns/456144101617802053/719171f97f3a487da4c56b0ef7f0d988/artifacts
+end_time: 1779440704671
+entry_point_name: ''
+experiment_id: '456144101617802053'
+lifecycle_stage: active
+run_id: 719171f97f3a487da4c56b0ef7f0d988
+run_name: DenseNet121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779440704584
+status: 3
+tags: []
+user_id: ONGOLO YVAN

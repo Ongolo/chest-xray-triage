@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ONGOLO YVAN/Desktop/chest-xray-triage/mlruns/456144101617802053/2351777dfd394cc5b36454c8dd009f40/artifacts
+end_time: 1779440704764
+entry_point_name: ''
+experiment_id: '456144101617802053'
+lifecycle_stage: active
+run_id: 2351777dfd394cc5b36454c8dd009f40
+run_name: ViT_tiny
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779440704679
+status: 3
+tags: []
+user_id: ONGOLO YVAN
